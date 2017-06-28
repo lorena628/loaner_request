@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Loaner Request" max_length="40" name="x_snc_loaner_reque_loaner_request" sizeclass="6" type="collection"/>
+    <element extends="task" label="Loaner Request" max_length="40" name="x_snc_loaner_reque_loaner_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other" type="string"/>
+    </element>
 </database>
