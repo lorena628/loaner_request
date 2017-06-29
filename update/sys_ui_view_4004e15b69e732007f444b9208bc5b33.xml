@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-29 15:19:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4004e15b69e732007f444b9208bc5b33</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sys_popup,loaner_req</sys_name>
